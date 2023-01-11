@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_i"
+            android:title="HOME" />
+        <item
+            android:id="@+id/nav_doraemon"
+            android:icon="@drawable/dora_face"
+            android:title="Doraemon" />
+        <item
+            android:id="@+id/nav_hot"
+            android:icon="@drawable/dora_face"
+            android:title="Anime" />
+        <item
+            android:id="@+id/nav_nobita"
+            android:icon="@drawable/face_i"
+            android:title="Naruto" />
+        <item
+            android:id="@+id/nav_shizuka"
+            android:icon="@drawable/face_i"
+            android:title="Pokemon" />
+        <item
+            android:id="@+id/nav_gian"
+            android:icon="@drawable/face_i"
+            android:title="Shinchan" />
+        <item
+            android:id="@+id/nav_suneo"
+            android:icon="@drawable/face_i"
+            android:title="DragonBall" />
+    </group>
+
+    <item
+        android:title="Support Us">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/share_i"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_rate"
+                android:icon="@drawable/rate_i"
+                android:title="Rate" />
+
+        </menu>
+
+    </item>
+
+</menu>

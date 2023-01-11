@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/audiowide</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/cabin_sketch</item>
+        <item>@font/concert_one</item>
+        <item>@font/diplomata_sc</item>
+        <item>@font/miltonian</item>
+    </array>
+</resources>

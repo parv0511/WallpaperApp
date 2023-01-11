@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "993567447607",
+    "firebase_url": "https://nobita-91999.firebaseio.com",
+    "project_id": "nobita-91999",
+    "storage_bucket": "nobita-91999.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993567447607:android:1a36991a589e15f8d7fdb2",
+        "android_client_info": {
+          "package_name": "com.compileC.aw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993567447607-9733qdia09633rlobfefjsm94cjg8no3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBos_p5aLmtNwXtpVSZlFmxZbwQcq-BiC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993567447607-9733qdia09633rlobfefjsm94cjg8no3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
